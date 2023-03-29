@@ -43,3 +43,4 @@ The script should be automatically injected into the url you defined the next ti
 4. Click **Restore**.
 
 
+http://gg.gg/13kub2
